@@ -1,4 +1,5 @@
-def my_hash = {name => "nathan"}
+def my_hash 
+  pets = {cat => "princess"}
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
   
